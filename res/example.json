@@ -118,7 +118,7 @@
     "message": "",
     "meta": {
       "product_id": "1.141",
-      "name": "Weighted Average Cost of Capital (WACC) API",
+      "name": "Weighted Average Cost of Capital (WACC) API - Demo",
       "description": "Weighted average cost of capital (WACC) calculator of listed and unlisted companies based on an input-based API calculation engine. The weighted average cost of capital (WACC) represents a company's blended average cost of capital across all financing sources, including common shares, preferred shares, and debt.",
       "vendor": "Qumundo e.K.",
 			"info": "Demo mode! Do not use in active environment!"
