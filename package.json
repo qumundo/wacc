@@ -1,6 +1,6 @@
 {
   "name": "@qumundo/wacc",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Weighted average cost of capital (WACC) calculator of listed and unlisted companies based on an input-based API calculation engine.",
   "homepage": "https://www.qumundo.com/api/weighted-average-cost-of-capital-api",
   "author": {
@@ -46,6 +46,6 @@
     "calculator",
     "API",
     "data",
-    "data service"    
+    "data service"
   ]
 }
