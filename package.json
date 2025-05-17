@@ -1,0 +1,49 @@
+{
+  "name": "@qumundo/wacc",
+  "version": "1.0.0",
+  "description": "Weighted average cost of capital (WACC) calculator of listed and unlisted companies based on an input-based API calculation engine.",
+  "homepage": "https://github.com/qumundo/wacc",
+  "author": {
+    "name": "Qumundo e.K.",
+    "email": "dev@qumundo.com",
+    "url": "https://www.qumundo.com"
+  },
+  "license": "COPYRIGHT © 2025, Qumundo e.K.. All rights reserved.",
+  "licenses": [
+    {
+      "type": "Copyright © 2025, Qumundo e.K.. All rights reserved.",
+      "url": "https://github.com/qumundo/wacc/blob/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/qumundo/wacc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qumundo/wacc/issues"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "wacc",
+    "weighted average cost of capital",
+    "cost",
+    "capital",
+    "cost of capital",
+    "value",
+    "valuation",
+    "net present value",
+    "discounted cash flow",
+    "future free cash flows",
+    "capital markets",
+    "legal entities",
+    "companies",
+    "calculator",
+    "API"
+  ]
+}
